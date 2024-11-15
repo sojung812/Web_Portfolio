@@ -1288,6 +1288,9 @@ Responsive
 		background: #242424;
 		margin: 0 5px;
 	}
+	.blog-thumb img {
+		width : 30%;
+	}
 }
 
 /*추가*/
